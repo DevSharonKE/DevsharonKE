@@ -1,16 +1,14 @@
 ## Hi there 👋
+I'm  Avnishani sharon 
 
-<!--
-**DevSharonKE/DevsharonKE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an IT student about front-end development
+Currently learning HTML,CSS, and Javascript
+I like building simple, clean web page from scratch
+Just published my first profile settings page!
 
-Here are some ideas to get you started:
+##projects
+-[profile settings page](https://github.com/DevsharonKE/profile-settings)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Let's connect
+-Github:[@DevsharonKE](https://github.com/DevsharonKE)
+
